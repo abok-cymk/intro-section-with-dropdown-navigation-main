@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [intro-section-with-dropdown-navigation-main](https://github.com/abok-cymk/intro-section-with-dropdown-navigation-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
