@@ -2,7 +2,7 @@ import React from 'react';
 
 const Attribution = () => {
   return (
-    <div class="flex justify-center text-sm">
+    <div class="text-center lg:flex lg:justify-center text-xs/6 lg:text-sm/6">
       Challenge by
       <a href="https://www.frontendmentor.io?ref=challenge" target="_blank" className='ml-2 underline text-blue-500'>
         Frontend Mentor

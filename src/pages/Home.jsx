@@ -16,7 +16,7 @@ const Home = () => {
       </div>
 
       {/* TEXT CONTENT - Last on mobile, first on desktop */}
-      <div className="order-2 lg:order-1 col-span-3 px-4 lg:px-14 lg:pt-10 flex flex-col gap-10 text-center lg:text-left">
+      <div className="order-2 lg:order-1 col-span-3 px-4 lg:px-14 lg:pt-10 flex flex-col gap-3 lg:gap-10 text-center lg:text-left">
         <h1 className="text-4xl lg:text-6xl font-bold text-pretty">
           Make remote work
         </h1>
@@ -30,7 +30,7 @@ const Home = () => {
             className="bg-almost-black border-0 px-6 py-2 text-almost-white cursor-pointer text-sm"
           />
         </div>
-        <div className="flex items-center justify-between mt-6  lg:gap-0">
+        <div className="flex items-center justify-center lg:justify-between mt-6 gap-2 lg:gap-0">
           <img src="/client-databiz.svg" alt="Databiz" className="w-16" />
           <img src="/client-audiophile.svg" alt="Audiophile" className="w-16" />
           <img src="/client-meet.svg" alt="Meet" className="w-16" />
